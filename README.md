@@ -1,0 +1,2 @@
+# NotACapstone
+Capstone example setup
